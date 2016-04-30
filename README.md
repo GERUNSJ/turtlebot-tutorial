@@ -23,3 +23,5 @@ This will run an instance of jekyll inside a docker container and expose it on
 To use the local testing script you will need to have installed Docker.
 [See the Docker Installation Instructions](https://docs.docker.com/engine/installation/)
 And make sure to add your user to the `docker` group.
+
+## Translation
